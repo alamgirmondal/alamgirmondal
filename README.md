@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Alamgir Mondal</h1>
 
 <h3 align="center">A passionate Computer Science student & aspiring Full Stack Developer from India 🇮🇳</h3>
