@@ -43,15 +43,25 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,spring,mysql,mongodb,git,github,vscode,eclipse,linux" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alamgirmondal44337&show_icons=true&theme=tokyonight" />
-</p>
+<h3 align="center">🐍 Contribution Graph</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamgirmondal44337&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamgirmondal44337&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alamgirmondal44337&theme=tokyo-night&hide_border=true" />
 </p>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alamgirmondal44337&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+<h3 align="center">💭 Developer Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ```
